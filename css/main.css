@@ -4,3 +4,30 @@
 .nav-menu{
     text-align: right;
 }
+.image-link{
+    text-decoration: none;
+}
+.img-astronaut{
+    width: 200px;
+}
+.img-whale{
+    display:block;margin: 0 auto;
+}
+.div-moby{
+    width: 500px;margin: 20px auto; padding: 30px; background-color: #fafafa;
+}
+.img-book{
+    height: 200px;    
+    margin: 0 40px 0 0;
+    float: left; 
+    
+}
+.moby-quote{
+    font-style: normal; 
+    font-size: 24px; 
+    font-weight: bold;
+    color: #ff0000;
+}
+blockquote{
+    margin: 0 20px auto;padding: 20px;background-color: #f6f5f5;
+}
